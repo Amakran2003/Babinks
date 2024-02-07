@@ -37,10 +37,6 @@ function makeChoice(choice) {
             storyContent.innerHTML = "Going solo, you rely on your skills and avoid entanglements.";
             showOptions(["Continue your journey", "Seek companions"]);
             break;
-        case 9:
-            // Handle the consequences of the second set of choices
-            break;
-        // Add more cases for different choices and consequences
     }
 }
 
@@ -53,6 +49,5 @@ function showOptions(options) {
 }
 
 function clearOptions() {
-    // Clear existing buttons
-    storyContent.innerHTML = "";
+    storyContent.innerHTML = "case 1, case 2";
 }
