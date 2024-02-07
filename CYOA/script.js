@@ -1,4 +1,7 @@
 let storyContent = document.getElementById('content');
+let disContent = document.getElementById('hide');
+let disContent2 = document.getElementById('hide2');
+
 
 function makeChoice(choice) {
     // Clear existing buttons
@@ -8,10 +11,12 @@ function makeChoice(choice) {
         case 1:
             storyContent.innerHTML = "You bravely take the dangerous shortcut, facing various challenges.";
             showOptions(["Confront challenges head-on", "Use diplomacy", "Find alternative solutions"]);
+            clearButtons();
             break;
         case 2:
             storyContent.innerHTML = "You opt for the safer but longer route, encountering allies and enemies along the way.";
             showOptions(["Form alliances", "Betray others", "Go solo"]);
+            clearButtons();
             break;
         case 3:
             storyContent.innerHTML = "Confronting challenges head-on, you prove your strength and gain respect.";
@@ -55,4 +60,9 @@ function showOptions(options) {
 function clearOptions() {
     // Clear existing buttons
     storyContent.innerHTML = "";
+}
+
+function clearButtons() {
+    disContent.classList.add('hidden');
+    disContent2.classList.add('hidden');
 }
