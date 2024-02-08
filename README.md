@@ -8,4 +8,9 @@
 | Raphaël DESCAMPS| <img src="https://avatars.githubusercontent.com/u/145991387?v=4" width="100px"> | 
 
 ### Our Game : 
+"Lost Kingdom Chronicles" invites players to embark on a perilous journey to rediscover a lost kingdom. Faced with pivotal choices at every turn, players navigate through encounters with enigmatic characters like Ryuk and BRIKCHIN. Diplomacy, combat, and exploration shape their destiny, unraveling diverse outcomes in a captivating fantasy world. This compact CYOA experience promises an unpredictable adventure, where each decision leaves an indelible mark on the Chronicles of the Lost Kingdom.
 
+### How to use:
+
+Launch index.html 
+And enjoy!
