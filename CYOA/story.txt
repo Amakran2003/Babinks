@@ -1,44 +1,44 @@
--- You find yourself standing at a crossroads. Which path will you choose?
-    - Take the dangerous shortcut
-        -- You bravely take the dangerous shortcut, facing various challenges along the way. After overcoming treacherous terrain and fierce adversaries, you finally arrive at the legendary bridge. As you approach, you notice a mysterious figure standing on the other side – it's Ryuk.
-            -Attempt to Sneak Past
+? You find yourself standing at a crossroads. Which path will you choose?
+    ? Take the dangerous shortcut?
+        - You bravely take the dangerous shortcut, facing various challenges along the way. After overcoming treacherous terrain and fierce adversaries, you finally arrive at the legendary bridge. As you approach, you notice a mysterious figure standing on the other side – it's Ryuk.
+            ? Attempt to Sneak Past ?
                 - RUNAWAY Deciding that discretion is the better part of valor, you try to stealthily navigate around Ryuk, hoping to avoid a direct confrontation.
 
-            -Engage in Conversation
-                -- DIPLOMACY You cautiously approach Ryuk, choosing to engage in conversation rather than combat. This option could provide valuable information or insights.
-                    - Offer a Trade: Propose a trade, offering something valuable in exchange for information.
-                        -- Ryuk reveals fascinating details about the lost kingdom, providing crucial hints for the continuation of your quest.
-                    - You decide to inquire about the lost kingdom, seeking ancient knowledge from Ryuk. This may provide valuable insights for your quest.
-                        -- Ryuk accepts your trade offer. However, he asks for a mysterious favor in return, to be fulfilled later.
-            -Challenge Ryuk in a Duel
-                -- ATTACK You draw your weapon, ready to face Ryuk in a test of strength and skill. This path may lead to gaining Ryuk's respect and assistance.
-                -- The clash of enchanted weapons echoes across the legendary bridge. The intensity of the battle pushes both your skills to the limit. Ryuk, impressed by your determination, gradually eases his assault.
-                -- As the duel concludes, Ryuk lowers his weapon, acknowledging your strength. 'You have proven your courage,' he says. 'I grant you my respect and assistance
-                -- With Ryuk now at your side, you continue across the legendary bridge. As you reach the other side, the landscape changes, and you encounter a weak character struggling to achieve something. This frail figure appears to be on the verge of collapse, desperately trying to lift a heavy object blocking the path.
+            ? Engage in Conversation ?
+                - DIPLOMACY You cautiously approach Ryuk, choosing to engage in conversation rather than combat. This option could provide valuable information or insights.
+                    ? Offer a Trade: Propose a trade, offering something valuable in exchange for information?
+                        - Ryuk reveals fascinating details about the lost kingdom, providing crucial hints for the continuation of your quest.
+                    ? Ask where is the nearest city and try to be not suspicious?
+                        - Ryuk accepts your trade offer. However, he asks for a mysterious favor in return, to be fulfilled later.
+            ? Challenge Ryuk in a Duel?
+                - ATTACK You draw your weapon, ready to face Ryuk in a test of strength and skill. This path may lead to gaining Ryuk's respect and assistance.
+                - The clash of enchanted weapons echoes across the legendary bridge. The intensity of the battle pushes both your skills to the limit. Ryuk, impressed by your determination, gradually eases his assault.
+                - As the duel concludes, Ryuk lowers his weapon, acknowledging your strength. 'You have proven your courage,' he says. 'I grant you my respect and assistance
+                - With Ryuk now at your side, you continue across the legendary bridge. As you reach the other side, the landscape changes, and you encounter a weak character struggling to achieve something. This frail figure appears to be on the verge of collapse, desperately trying to lift a heavy object blocking the path.
                 - The grateful character looks up, eyes filled with gratitude. 'Thank you for your help,' they say weakly. 'I am BRIKCHIN, a scholar seeking ancient artifacts in this lost kingdom.
-                    - Offer Assistance: Provide further aid or support to BRIKCHIN in their quest.
-                        -- Choosing to offer assistance, you aid BRIKCHIN, a struggling scholar in search of an ancient artifact. BRIKCHIN expresses gratitude and shares that the artifact holds the key to revealing hidden truths about the lost kingdom.
-                        -- With Ryuk and BRIKCHIN by your side, you delve deeper into the kingdom, facing challenges and uncovering mysteries. BRIKCHIN's knowledge becomes invaluable, and Ryuk's assistance proves crucial.
-                        --The alliance formed opens new possibilities as you navigate the intricate paths of the lost kingdom. The Chronicles of the Lost Kingdom continue to unfold, revealing secrets and adventures that may shape destinies.
-                    - Inquire About Ancient Artifacts: Ask BRIKCHIN about the ancient artifacts they are searching for.
+                    ? Offer Assistance: Provide further aid or support to BRIKCHIN in their quest.?
+                        - Choosing to offer assistance, you aid BRIKCHIN, a struggling scholar in search of an ancient artifact. BRIKCHIN expresses gratitude and shares that the artifact holds the key to revealing hidden truths about the lost kingdom.
+                        - With Ryuk and BRIKCHIN by your side, you delve deeper into the kingdom, facing challenges and uncovering mysteries. BRIKCHIN's knowledge becomes invaluable, and Ryuk's assistance proves crucial.
+                        -The alliance formed opens new possibilities as you navigate the intricate paths of the lost kingdom. The Chronicles of the Lost Kingdom continue to unfold, revealing secrets and adventures that may shape destinies.
+                    ? Inquire About Ancient Artifacts: Ask BRIKCHIN about the ancient artifacts they are searching for.?
 
-    - Take the safer but longer route
-        -- You decide to follow the well-trodden path on the left. The journey is indeed serene, with the sunlight playing through the leaves and a gentle breeze guiding your way. As you walk, you encounter a wise old traveler it's Master Roshi who shares stories of the land and provides you with valuable advice. However, the path becomes longer than expected, and fatigue starts to set in. Eventually, you reach a cozy village where the locals greet you warmly, grateful for your safe arrival.
-        -- After leaving the cozy village, you continue your journey on the well-established path. The road becomes more and more picturesque, with magnificent landscapes and encounters with other travelers. However, time passes, and fatigue sets in. One evening, exploring the surroundings, you discover an ancient cave hidden behind a waterfall. Curious, you decide to enter. Inside, bioluminescent lights illuminate a mysterious passageway. You now have the choice:
-            - Explore the cave
-                -- Inside the cave, you discover ancient frescoes telling a long-lost story. At the end of the tunnel, a room is revealed, housing a treasure forgotten for centuries. You amass a large amount of money. You come out and continue on your way.
-                    - Continue your way
-                    -- You continue on your way, leaving the mysterious cave behind you. The path becomes more difficult, and you arrive at a suspension bridge over a deep ravine.
-            - Continue your way
-                -- You continue on your way, leaving the mysterious cave behind you. The path becomes more difficult, and you arrive at a suspension bridge over a deep ravine.
-                    -Cross the bridge carefully
-                        --Cautiously, you advance on the suspension bridge. The creaking of the boards beneath your feet adds palpable tension. Halfway there, a gust of wind shakes the bridge, but you manage to reach the other side safely. You continue your journey, but upon turning around you realize that the bridge is now too unstable to be used again. Further along the path, you encounter a group of traveling merchants. They tell you legends about an ancient artifact hidden in the nearby mountains.
-                            - Follow the merchants to the mountains
-                            - Continue your current path without detour
-                    - Find another way to cross
-                        -- You explore the surroundings in search of an alternative passage. Soon you discover an old hidden path that skirts the ravine. However, it is overgrown and seems uncrowded. Following this path, you arrive at a small isolated village. The villagers tell you about a mysterious creature that haunts the woods.
-                            - Investigate the creature and help the village
-                            - Ignore the warnings and continue on your way
+    ? Take the safer but longer route?
+        - You decide to follow the well-trodden path on the left. The journey is indeed serene, with the sunlight playing through the leaves and a gentle breeze guiding your way. As you walk, you encounter a wise old traveler it's Master Roshi who shares stories of the land and provides you with valuable advice. However, the path becomes longer than expected, and fatigue starts to set in. Eventually, you reach a cozy village where the locals greet you warmly, grateful for your safe arrival.
+        - After leaving the cozy village, you continue your journey on the well-established path. The road becomes more and more picturesque, with magnificent landscapes and encounters with other travelers. However, time passes, and fatigue sets in. One evening, exploring the surroundings, you discover an ancient cave hidden behind a waterfall. Curious, you decide to enter. Inside, bioluminescent lights illuminate a mysterious passageway. You now have the choice:
+            ? Explore the cave?
+                - Inside the cave, you discover ancient frescoes telling a long-lost story. At the end of the tunnel, a room is revealed, housing a treasure forgotten for centuries. You amass a large amount of money. You come out and continue on your way.
+                - You continue on your way, leaving the mysterious cave behind you. The path becomes more difficult, and you arrive at a suspension bridge over a deep ravine.
+            ? Continue your way?
+                - You continue on your way, leaving the mysterious cave behind you. The path becomes more difficult, and you arrive at a suspension bridge over a deep ravine.
+                    ? Cross the bridge carefully
+                        -Cautiously, you advance on the suspension bridge. The creaking of the boards beneath your feet adds palpable tension. Halfway there, a gust of wind shakes the bridge, but you manage to reach the other side safely. You continue your journey, but upon turning around you realize that the bridge is now too unstable to be used again. Further along the path, you encounter a group of traveling merchants. They tell you legends about an ancient artifact hidden in the nearby mountains.
+                            ? Follow the merchants to the mountains?
+                            ? Continue your current path without detour?
+                    ? Find another way to cross?
+                        - You explore the surroundings in search of an alternative passage. Soon you discover an old hidden path that skirts the ravine. However, it is overgrown and seems uncrowded. Following this path, you arrive at a small isolated village. The villagers tell you about a mysterious creature that haunts the woods.
+                            ? Investigate the creature and help the village?
+                            ? Ignore the warnings and continue on your way?
 
 
--- means its scenario - means its a questio
+- means its scenario 
+? means its a question
