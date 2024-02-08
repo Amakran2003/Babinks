@@ -1,0 +1,21 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+}
+
+#start {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#story, #choices {
+    display: none;
+    text-align: center;
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
