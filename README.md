@@ -13,4 +13,4 @@
 ### How to use:
 
 Launch index.html 
-And enjoy!
+and enjoy!
