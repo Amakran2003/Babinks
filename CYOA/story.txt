@@ -57,37 +57,6 @@ START
                                 - Instead of an immediate exchange, you propose the idea of forming an alliance with BRIKCHIN. By joining forces, you can both contribute to the quest for ancient artifacts, pooling your resources and skills for a more successful outcome.            
                                     - BRIKCHIN is intrigued by the idea of a long-term alliance. While the immediate exchange might not be as detailed, both parties agree to work together toward a common goal. The promise of future collaboration ensures ongoing support and shared success in the Chronicles of the Lost Kingdom.
 
-    ? Take the safer but longer route?
-        - You decide to follow the well-trodden path on the left. The journey is indeed serene, with the sunlight playing through the leaves and a gentle breeze guiding your way. As you walk, you encounter a wise old traveler it's Master Roshi who shares stories of the land and provides you with valuable advice. However, the path becomes longer than expected, and fatigue starts to set in. Eventually, you reach a cozy village where the locals greet you warmly, grateful for your safe arrival.
-        - After leaving the cozy village, you continue your journey on the well-established path. The road becomes more and more picturesque, with magnificent landscapes and encounters with other travelers. However, time passes, and fatigue sets in. One evening, exploring the surroundings, you discover an ancient cave hidden behind a waterfall. Curious, you decide to enter. Inside, bioluminescent lights illuminate a mysterious passageway. You now have the choice:
-            ? Explore the cave?
-                - Inside the cave, you discover ancient frescoes telling a long-lost story. At the end of the tunnel, a room is revealed, housing a treasure forgotten for centuries. You amass a large amount of money. You come out and continue on your way.
-                - You continue on your way, leaving the mysterious cave behind you. The path becomes more difficult, and you arrive at a suspension bridge over a deep ravine.
-                    ? Continue your current path?
-                        - You decide to follow the original path, leaving the mysterious cave behind you. The journey becomes more challenging, leading you to a suspension bridge over a deep ravine.
-
-                    ? Take the newly discovered fork?
-                        - Intrigued by the unknown, you choose the newly discovered fork. The path winds through dense woods and reveals an ancient shrine. A wise guardian awaits, offering to share insights about the lost kingdom. How do you proceed?
-                            ? Ask about hidden dangers?
-                                - The guardian warns of hidden dangers ahead, providing guidance to navigate safely.
-                            ?Inquire about lost treasures?
-                                - The guardian shares tales of lost treasures, hinting at valuable artifacts scattered throughout the realm.
-            ? Continue your way?
-                - You continue on your way, leaving the mysterious cave behind you. The path becomes more difficult, and you arrive at a suspension bridge over a deep ravine.
-                    ? Cross the bridge carefully
-                        -Cautiously, you advance on the suspension bridge. The creaking of the boards beneath your feet adds palpable tension. Halfway there, a gust of wind shakes the bridge, but you manage to reach the other side safely. You continue your journey, but upon turning around you realize that the bridge is now too unstable to be used again. Further along the path, you encounter a group of traveling merchants. They tell you legends about an ancient artifact hidden in the nearby mountains.
-                            ? Follow the merchants to the mountains?
-                                - Intrigued by the legends, you decide to join the merchants on their journey to the mountains, anticipating new discoveries.
-                            ? Continue your current path without detour?
-                                - Opting to stay on your current path, you resist the temptation of the legends and press on toward your original destination.
-                    ? Find another way to cross?
-                        - You explore the surroundings in search of an alternative passage. Soon you discover an old hidden path that skirts the ravine. However, it is overgrown and seems uncrowded. Following this path, you arrive at a small isolated village. The villagers tell you about a mysterious creature that haunts the woods.
-                            ? Investigate the creature and help the village?
-                                - Driven by curiosity and a sense of justice, you decide to investigate the mysterious creature, offering assistance to the villagers.
-                            ? Ignore the warnings and continue on your way?
-                                - Disregarding the villagers' warnings, you choose to continue on your original path, avoiding potential distractions.
-
-
 - means its scenario 
 ? means its a question
 
