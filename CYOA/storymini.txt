@@ -1,0 +1,25 @@
+- You bravely take the dangerous shortcut, facing various challenges along the way. After overcoming treacherous terrain and fierce adversaries, you finally arrive at the legendary bridge. As you approach, you notice a mysterious figure standing on the other side – it's Ryuk.
+            
+            1 Attempt to Sneak Past ?
+                
+                - RUNAWAY Deciding that discretion is the better part of valor, you try to stealthily navigate around Ryuk, hoping to avoid a direct confrontation.
+                    
+
+            2 Engage in Conversation ?
+                
+                - You cautiously approach Ryuk, choosing to engage in conversation rather than combat. This option could provide valuable information or insights.
+                    
+                    4 Offer a Trade: Propose a trade, offering something valuable in exchange for information?
+                        
+                        - Ryuk reveals fascinating details about the lost kingdom, providing crucial hints for the continuation of your quest.
+                    
+                    5 Ask where is the nearest city and try to be not suspicious?
+                        
+                        - Ryuk accepts your trade offer. However, he asks for a mysterious favor in return, to be fulfilled later.
+            
+            3 Challenge Ryuk in a Duel?
+                - EEEEEEEEEE
+                    6 rrrrrrrr
+                        - eewwwwwwww
+                    7 ttttttttt
+                        - aswaswaswasw
