@@ -1,25 +1,25 @@
 
 
 
-        - You bravely take the dangerous shortcut, facing various challenges along the way. After overcoming treacherous terrain and fierce adversaries, you finally arrive at the legendary bridge. As you approach, you notice a mysterious figure standing on the other side – it's Ryuk.
+        1 You bravely take the dangerous shortcut, facing various challenges along the way. After overcoming treacherous terrain and fierce adversaries, you finally arrive at the legendary bridge. As you approach, you notice a mysterious figure standing on the other side – it's Ryuk.
             
-            1 Attempt to Sneak Past ?
+            2 Attempt to Sneak Past ?
                 
                 - RUNAWAY Deciding that discretion is the better part of valor, you try to stealthily navigate around Ryuk, hoping to avoid a direct confrontation.
 
-            2 Engage in Conversation ?
+            3 Engage in Conversation ?
                 
                 - You cautiously approach Ryuk, choosing to engage in conversation rather than combat. This option could provide valuable information or insights.
                     
-                    4 Offer a Trade: Propose a trade, offering something valuable in exchange for information?
+                    5 Offer a Trade: Propose a trade, offering something valuable in exchange for information?
                         
                         - Ryuk reveals fascinating details about the lost kingdom, providing crucial hints for the continuation of your quest.
                     
-                    5 Ask where is the nearest city and try to be not suspicious?
+                    6 Ask where is the nearest city and try to be not suspicious?
                         
                         - Ryuk accepts your trade offer. However, he asks for a mysterious favor in return, to be fulfilled later.
             
-            3 Challenge Ryuk in a Duel?
+            4 Challenge Ryuk in a Duel?
                
                 - You draw your weapon, ready to face Ryuk in a test of strength and skill. This path may lead to gaining Ryuk's respect and assistance.
                 - The clash of enchanted weapons echoes across the legendary bridge. The intensity of the battle pushes both your skills to the limit. Ryuk, impressed by your determination, gradually eases his assault.
@@ -27,23 +27,23 @@
                 - With Ryuk now at your side, you continue across the legendary bridge. As you reach the other side, the landscape changes, and you encounter a weak character struggling to achieve something. This frail figure appears to be on the verge of collapse, desperately trying to lift a heavy object blocking the path.
                 - The grateful character looks up, eyes filled with gratitude. 'Thank you for your help,' they say weakly. 'I am BRIKCHIN, a scholar seeking ancient artifacts in this lost kingdom.
                     
-                    6 Inquire About Ancient Artifacts: Ask BRIKCHIN about the ancient artifacts they are searching for.?
+                    7 Inquire About Ancient Artifacts: Ask BRIKCHIN about the ancient artifacts they are searching for.?
                        
                         - Choosing to offer assistance, you aid BRIKCHIN, a struggling scholar in search of an ancient artifact. BRIKCHIN expresses gratitude and shares that the artifact holds the key to revealing hidden truths about the lost kingdom.
                         - With Ryuk and BRIKCHIN by your side, you delve deeper into the kingdom, facing challenges and uncovering mysteries. BRIKCHIN's knowledge becomes invaluable, and Ryuk's assistance proves crucial.
                         - The alliance formed opens new possibilities as you navigate the intricate paths of the lost kingdom. The Chronicles of the Lost Kingdom continue to unfold, revealing secrets and adventures that may shape destinies. 
                             
-                            8 Delve Deeper into the kingdom with Ryuk and BRIKCHIN?
+                            9 Delve Deeper into the kingdom with Ryuk and BRIKCHIN?
                                 - With Ryuk and BRIKCHIN by your side, you delve deeper into the kingdom, facing challenges and uncovering mysteries. BRIKCHIN's knowledge becomes invaluable, and Ryuk's assistance proves crucial.
                                     
-                                    12 Explore the Mysterious Cavern?
+                                     11 Explore the Mysterious Cavern?
                                         - Encountering a mysterious cavern, you enter to find ancient relics and knowledge that further aid your quest
                                         - While exploring the depths of the kingdom, you come across a mysterious artifact emitting an enchanting glow. Driven by curiosity, you decide to touch it. However, as soon as your skin makes contact, an intense burning sensation courses through your body. The pain is unbearable, and you realize that touching the artifact was a grave mistake.
                                             - Outcome
                                                 ? Your vision blurs, and the world around you fades away. Strangely, you don't meet a tragic end, but the artifact has a profound impact. You find yourself in a vegetative state, unable to move or communicate. The once-promising adventurer is now a living relic, forever bound to the consequences of a fateful touch.
                                                 END
                                     
-                                    13 Navigate Through Hidden Paths?
+                                     12 Navigate Through Hidden Paths?
                                         - Discovering hidden paths, you navigate through them with Ryuk and BRIKCHIN, uncovering secrets and shortcuts.
                                         - However, as you walk along the winding trail, Gollum, a mysterious and unpredictable creature, emerges from the shadows.
                                             - Outcome
@@ -51,28 +51,28 @@
                                                 ? The once-promising adventure comes to an abrupt and tragic end. The hidden paths, although promising shortcuts, proved perilous with the unexpected encounter of Gollum.
                                                 END
                             
-                            9 Uncover the Lost Library ?
+                            10 Uncover the Lost Library ?
                                 - As you, Ryuk, and BRIKCHIN continue to explore the depths of the kingdom, you come across an ancient and forgotten library hidden within the heart of the realm. The library is filled with dusty tomes and scrolls, containing knowledge that has been lost to time.
                                     
-                                    14 Study the Ancient Scrolls?
+                                    13  Study the Ancient Scrolls?
                                         - Intrigued by the ancient scrolls, you decide to spend time studying their contents. The scrolls contain arcane wisdom, revealing forgotten spells and historical events that could aid you on your quest.
                                             - Outcome
                                                 ? Unfortunately, the ancient scrolls are cursed. As you delve deeper into their secrets, an insidious magic is unleashed. The cursed knowledge overwhelms your senses, leading to a catastrophic end. Your life force is drained, and you meet an untimely demise.
                                                 END
                                     
-                                    15 Search for Clues about the Lost Kingdom?
+                                     14 Search for Clues about the Lost Kingdom?
                                         - Instead of studying the scrolls, you focus on searching for clues and information specifically related to the lost kingdom. The library might hold secrets that lead you closer to uncovering the mysteries surrounding the kingdom's disappearance.
                                                 ? In your fervent search for clues, you accidentally trigger a long-forgotten trap within the library. The trap ensnares you in a web of magical energies, leaving you in a vegetative state. You remain conscious but incapacitated, forever trapped within the confines of the library.
                                                 END
                     
-                    7 Negotiate with BRIKCHIN?
+                    8 Negotiate with BRIKCHIN?
                         - As you express your curiosity about the ancient artifacts, you decide to negotiate with BRIKCHIN for a collaborative exchange of knowledge. Rather than a one-sided inquiry, you propose a mutually beneficial arrangement.
                             
-                            10 Offer to Share Your Unique Skills?
+                             15 Offer to Share Your Unique Skills?
                                 - In exchange for detailed information about the ancient artifacts, you offer to share your unique skills or abilities with BRIKCHIN. This could include combat skills, magical talents, or any other expertise you possess.
                                     - BRIKCHIN accepts your offer, and the exchange proves fruitful. The shared knowledge about ancient artifacts enhances your understanding, while BRIKCHIN benefits from your unique skills. This newfound collaboration strengthens your alliance, opening doors to future possibilities.
                             
-                            11 Propose a Future Alliance? 
+                             16 Propose a Future Alliance? 
                                 - Instead of an immediate exchange, you propose the idea of forming an alliance with BRIKCHIN. By joining forces, you can both contribute to the quest for ancient artifacts, pooling your resources and skills for a more successful outcome.            
                                     - BRIKCHIN is intrigued by the idea of a long-term alliance. While the immediate exchange might not be as detailed, both parties agree to work together toward a common goal. The promise of future collaboration ensures ongoing support and shared success in the Chronicles of the Lost Kingdom.
 
