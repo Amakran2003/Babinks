@@ -1,71 +1,53 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  font-family: 'Gotham Rounded', sans-serif; /* Make sure to include single quotes around the font name */
+}
+
 body {
-    background: url(https://e1.pxfuel.com/desktop-wallpaper/691/981/desktop-wallpaper-darkness-world-dark-world.jpg) no-repeat;
-    background-size:cover;
-    font-family: 'Arial', sans-serif;
-    text-align: center;
-    color: white;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: #333;
 }
 
-#story {
-    margin-top: 20%;
-    width: 800px;
-    margin-left: auto;
-    margin-right: auto;
-    /* margin: 20px auto; */
-    padding: 10px;
-    border: 1px solid #ccc;
+.container {
+  width: 800px;
+  max-width: 80%;
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px 2px;
 }
 
-button {
-    padding: 10px;
-    margin: 5px;
-    cursor: pointer;
-    background:transparent;
-    border: 2px solid grey;
-    color: white;
-    border-radius: 20px;
-    transition: .5s;
-    font-size: 17px;
-}
-
-button:nth-child(1) {
-    margin-top: 40px;
-}
-
-#content {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    font-size: 20px;
-}
-
-#content button {
-    font-size: 17px;
-}
-
-#story p {
-    border-right: 3px solid;
-    overflow: hidden;
-    animation:
-        typing 2s steps(15),
-        cursor .4 step-end infinite alternate;
+#text {
+  font-size: 24px;
+  white-space: pre-line;
+  position: relative;
 }
 
 
-@keyframes cursor {
-    50% { border-color: transparent}
+.btn-grid {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  gap: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
-@keyframes typing {
-    from { width: 0}
+.btn {
+  background-color: hsl(15, 100%, 50%);
+  border: 2px solid hsl(0, 100%, 30%);
+  border-radius: 30px;
+  padding: 10px 10px;
+  color: rgb(255, 255, 255);
+  outline: none;
 }
 
-button:hover {
-    background: grey;
-    color: white;
+.btn:hover {
+  border-color: black;
+  border-width: 2px;
 }
-
-.hidden {
-    display: none;
-}
-
