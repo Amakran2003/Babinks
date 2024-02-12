@@ -246,8 +246,8 @@ const textNodes = [
     text: 'As you, Ryuk, and BRIKCHIN continue to explore the depths of the kingdom, you come across an ancient and forgotten library hidden within the heart of the realm. The library is filled with dusty tomes and scrolls, containing knowledge that has been lost to time.',
     options: [
       {
-        text: 'Study the Ancient Scrolls',
-        nextText: 13
+        text: 'Sorry I didnt finished the story',
+        nextText: -1
       }
     ]
   },
@@ -256,8 +256,8 @@ const textNodes = [
     text: 'As you, Ryuk, and BRIKCHIN continue to explore the depths of the kingdom, you come across an ancient and forgotten library hidden within the heart of the realm. The library is filled with dusty tomes and scrolls, containing knowledge that has been lost to time.',
     options: [
       {
-        text: 'Study the Ancient Scrolls',
-        nextText: 13
+        text: 'Sorry I didnt finished the story',
+        nextText: -1
       }
     ]
   },
