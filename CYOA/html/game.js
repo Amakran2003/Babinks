@@ -140,8 +140,8 @@ const textNodes = [
     text: 'Ryuk accepts your trade offer. However, he asks for a mysterious favor in return, to be fulfilled later.',
     options: [
       {
-        // text: '',
-        // nextText: 
+        text: 'restart',
+        nextText: -1
       }
     ]
   },
