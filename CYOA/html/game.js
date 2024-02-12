@@ -67,7 +67,7 @@ function displayText(text, element, speed, callback) {
 const textNodes = [
   {
     id: 1,
-    text: 'You bravely take the dangerous shortcut, facing various challenges along the way. After overcoming treacherous terrain and fierce adversaries, you finally arrive at the legendary bridge. As you approach, you notice a mysterious figure standing on the other side – its Ryuk.',
+    text: 'You are an adventurer and you have gone on a quest. To advance in your adventure you can take a long path or a more dangerous shortcut. You decide to bravely take the dangerous shortcut, facing various challenges along the way. After overcoming dangerous terrain and fierce opponents, you finally arrive at the legendary bridge. As you approach, you notice a mysterious figure standing on the other side – it’s Ryuk.',
     options: [
       {
         text: 'Attempt to Sneak Past',
